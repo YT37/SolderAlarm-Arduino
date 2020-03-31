@@ -3,7 +3,8 @@ This project sounds an alarm when the soldering iron is ready in Arduino.
 
 # Pinouts
 - DHT11 - A1
-- Buzzer - D5
+- Buzzer - D4
+- Button - D7
 
 # Required Libraries
  - [DHT](https://www.arduinolibraries.info/libraries/dht-sensor-library)
